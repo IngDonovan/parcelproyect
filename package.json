@@ -1,0 +1,22 @@
+{
+  "name": "parcelproyect",
+  "version": "1.0.0",
+  "description": "Proyect using Parcel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngDonovan/parcelproyect.git"
+  },
+  "author": "Ing Donovan <rojasdrm03@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IngDonovan/parcelproyect/issues"
+  },
+  "homepage": "https://github.com/IngDonovan/parcelproyect#readme",
+  "devDependencies": {
+    "parcel": "^2.9.2"
+  }
+}
