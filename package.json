@@ -2,9 +2,10 @@
   "name": "parcelproyect",
   "version": "1.0.0",
   "description": "Proyect using Parcel",
-  "main": "index.js",
+  "source": "src/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel serve --port 8080 src/index.html",
+    "build": "parcel build src/index.html --public-url ./"
   },
   "repository": {
     "type": "git",
