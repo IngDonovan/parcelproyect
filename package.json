@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/IngDonovan/parcelproyect#readme",
   "devDependencies": {
-    "parcel": "^2.9.2"
+    "parcel": "^2.9.2",
+    "posthtml-include": "^1.7.4"
   }
 }
